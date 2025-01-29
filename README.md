@@ -4,9 +4,10 @@ Hobo-contacts-api is a simple script to serve a json file with a telephonebook l
 
 ## Installation
 
+The file contacts.json contains data of you phonebook. Modify data in the file contacts.json there before upload.
 Upload to a shared hosting into some directory like "contacts-api"
-
 
 ## Usage
 
-The file contacts.json contains data of you phonebook. Modify the data there before upload.
+Use toghether with vue-app in this [repo](https://github.com/grosup/hobo-contacts)
+
